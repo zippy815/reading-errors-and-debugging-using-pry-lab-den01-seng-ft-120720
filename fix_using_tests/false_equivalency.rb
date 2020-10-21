@@ -13,7 +13,7 @@ def selection(num)
      "HAM HAM HAM IN MY TUMMY"
   end
 end
-get_user_input = 2
+
 def runner
   prompt_user
   selection(2)
