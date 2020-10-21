@@ -22,3 +22,4 @@ def runner
   prompt_user
   selection(get_user_input)
 end
+puts get_user_input(1)
